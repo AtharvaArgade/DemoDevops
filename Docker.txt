@@ -1,2 +1,3 @@
 Welcome
 In this session you will learn about devops
+New line is added in docker file
